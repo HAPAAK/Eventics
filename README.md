@@ -9,14 +9,14 @@ It is a platform which shows ongoing events of a club in any university.
 - Logo url
 
 ## STUDENT
-- *Reg.no*
+- *Reg_no*
 - Name
 - Email
 - Password
 - Club (can be null)
 
 ## EVENT
-- Eid
+- *Eid*
 - Name
 - Desc
 - Date
